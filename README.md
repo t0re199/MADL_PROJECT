@@ -1,6 +1,6 @@
 # README #
 
-This repository cointains application of **Machine and Deep Learning** tecniques on **images** and **texts**.   
+This repository cointains application of **Machine and Deep Learning** techniques on **images** and **texts**.   
 Major Python's Machine Learning Libraries such as:   
 * **NumPy**      
 * **Scipy**   
